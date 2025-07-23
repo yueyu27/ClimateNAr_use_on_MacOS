@@ -29,7 +29,25 @@ head(test)
 dim(test)
 
 
-# -- 
+
+
+
+
+# -- Tranform to .txt format (easy for next step use)
+
+# csv -> open in Excel -> save as exsl worksheet -> save as txt
+
+
+
+
+# DONE
+
+# ----------- Includes ----------
+
+# - Annual + Seasonal CLIM
+# - 52 populations (in the GBS chapter)
+
+# --------------------------------
 
 
 # END
